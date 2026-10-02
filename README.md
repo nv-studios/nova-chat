@@ -75,3 +75,7 @@ On your very first application boot, use these master credentials to unlock admi
 Distributed under the MIT Open Source License. 
 
 Made with ❤️ by **Nova Studios**. Feel free to fork this project, report bugs, or submit updates!
+
+
+## Notice!
+The Linux version does not have all the features mentioned. it is a work in progress.
